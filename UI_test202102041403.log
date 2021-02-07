@@ -1,0 +1,4 @@
+2021-02-04 14:03:56,719 - log.py[line:57] - INFO: this is a logger info message
+2021-02-04 14:03:56,719 - log.py[line:58] - WARNING: this is a logger warning message
+2021-02-04 14:03:56,719 - log.py[line:59] - ERROR: this is a logger error message
+2021-02-04 14:03:56,719 - log.py[line:60] - CRITICAL: this is a logger critical message
